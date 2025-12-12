@@ -18,16 +18,25 @@
 
 ## 🚀 Hakkımda
 
+## 🚀 Hakkımda
+
 <p align="center">
-  <i>Makine öğrenmesi, görüntü işleme ve yapay zekâ destekli mühendislik sistemleri üzerine çalışan Bilgisayar Mühendisliği öğrencisi</i>
+  <i>
+    Makine öğrenmesi, görüntü işleme ve yapay zekâ destekli mühendislik
+    sistemleri üzerine çalışan Bilgisayar Mühendisliği öğrencisi
+  </i>
 </p>
 
-Ben, **makine öğrenmesi**, **görüntü işleme** ve  
-**yapay zekâ destekli mühendislik çözümleri** üzerine çalışmalar yürüten  
-bir **Bilgisayar Mühendisliği öğrencisiyim**.
+<p align="center">
+Ben, <b>makine öğrenmesi</b>, <b>görüntü işleme</b> ve
+<b>yapay zekâ destekli mühendislik çözümleri</b> üzerine çalışmalar yürüten
+bir <b>Bilgisayar Mühendisliği öğrencisiyim</b>.
+</p>
 
-Odak noktam; **veriye dayalı modeller** geliştirerek mühendislik problemlerini çözmek,  
-simülasyon ve algoritma temelli yaklaşımları **uygulamaya dönüştürmektir**.
+<p align="center">
+Odak noktam; veriye dayalı modeller geliştirerek mühendislik problemlerini çözmek,
+simülasyon ve algoritma temelli yaklaşımları <b>uygulamaya dönüştürmektir</b>.
+</p>
 
 Çalışmalarımda özellikle:
 - Gerçek dünya problemlerini **algoritmik olarak modelleme**
@@ -43,8 +52,9 @@ konularına yoğunlaşmaktayım.
 - 🧠 Makine Öğrenmesi  
 - 🖼️ Görüntü İşleme ve Bilgisayarlı Görü  
 - 🤖 Yapay Zekâ Destekli Mühendislik Uygulamaları  
+- 🚀 Aviyonik Sistem Tasarımı (yazılım ve sistem seviyesi)  
 - 📊 Algoritma Tasarımı ve Veri İşleme  
-- 🧩 Sistem ve Yazılım Mühendisliği Yaklaşımları  
+- 🧩 Sistem Mühendisliği ve Uygulama Geliştirme  
 
 ---
 
@@ -62,34 +72,61 @@ konularına yoğunlaşmaktayım.
 - **Trello**, **Jenkins**
 - **OpenRocket**
 
-> Gömülü sistemler ve donanım bileşenleriyle ilgili çalışmalarım,  
-> ağırlıklı olarak **sensör verisi işleme ve sistem entegrasyonu bağlamında**  
-> sınırlı ve uygulama odaklıdır.
+> Gömülü sistemler ve donanım bileşenleriyle ilgili çalışmalarım,
+> ağırlıklı olarak aviyonik projelerde ihtiyaç duyulan
+> **sensör verisi işleme**, **haberleşme** ve **sistem entegrasyonu**
+> kapsamında gerçekleştirilmiştir.
+>  
+> STM32, Arduino, LoRa RF ve çeşitli sensörlerle uygulama bazlı deneyimim
+> bulunmakla birlikte, bu alanı ileri seviye uzmanlık iddiası olmadan,
+> yazılım ve sistem perspektifinden ele almaktayım.
+
 
 ---
 
-## 🛰️ Öne Çıkan Çalışmalar
+## 🛰️ Diğer Önemli Projeler (Pinned Olmayan)
 
-### 🍎 Görüntü İşleme – Taze / Çürük Meyve Tespiti
-- HSV ve LAB renk uzaylarıyla klasik görüntü işleme yöntemleri
-- Gölgeye dayanıklı segmentasyon teknikleri
-- Öznitelik çıkarımı ve makine öğrenmesi tabanlı sınıflandırma
-- Derin öğrenme ve transformer tabanlı yöntemlerin araştırılması
+### 🚀 Yüksek ve Orta İrtifa Roket Projeleri  
+**Space Camel Roket Takımı**  
+*Aviyonik Birim Kaptanı (2023–2024) · Takım Kaptanı (2024–2025)*
 
-### 🚀 Yapay Zekâ Destekli Simülasyon ve Tahmin Sistemleri
-- Simülasyon verileri üzerinden makine öğrenmesi ile tahmin modelleri
-- Algoritma temelli analiz ve model doğrulama süreçleri
-- Masaüstü uygulamalarla görselleştirme ve kullanıcı etkileşimi
+- TEKNOFEST 2024 Orta İrtifa Roket Yarışması’nda  
+  **824 takım arasından 29. olarak finalist** olan aviyonik ekipte aktif rol aldım.
+- TEKNOFEST 2025 Yüksek İrtifa Roket Yarışması’nda  
+  takım kaptanı olarak teknik ve idari koordinasyonu üstlendim.
+- Aviyonik sistem tasarımı ve haberleşme mimarisinin oluşturulması,
+  alt sistemler arası veri akışı ve kontrol stratejilerinin belirlenmesi.
+- LoRa tabanlı telemetri sistemleri için link bütçesi ve kazanç analizleri,
+  saha testleri ve veri kararlılığı değerlendirmeleri.
+- STM32 tabanlı aviyonik yapılarda uçuş algoritmaları ve sensör veri işleme
+  süreçlerinde yazılım odaklı çalışmalar.
+- C# (WinForms) ile geliştirilen yer istasyonu yazılımında,
+  telemetri paketlerinin ayrıştırılması ve görselleştirilmesi.
+- OpenRocket simülasyonları ve uçuş sonrası analizlerle
+  sistem performansının değerlendirilmesi.
+- Raporlama, tedarik, sponsorluk, bütçe ve proje planlama süreçlerinde aktif rol.
+- Takım yönetimi, iletişim ve problem çözme becerilerinin geliştirilmesi.
 
-### 🧠 Algoritma ve Sistem Odaklı Projeler
-- Sensör verilerinin yazılım tarafında işlenmesi ve yorumlanması
-- Modüler, sürdürülebilir ve okunabilir yazılım mimarileri
-- Mühendislik problemlerine sistematik yaklaşım
+---
+
+### 🕶️ Asistan Gözlük – Yapay Zekâ Destekli Akıllı Gözlük  
+**Heysem Yapay Zekâ Takımı – TEKNOFEST 2023 Engelsiz Yaşam Teknolojileri**  
+*(Yarışma Derecesi: 4.’lük)*
+
+- Raspberry Pi tabanlı akıllı gözlük sisteminde
+  görüntü işleme ve derin öğrenme algoritmalarının tasarımına katkı.
+- Python, OpenCV ve TensorFlow kullanılarak;
+  nesne algılama, yüz tanıma, sarı çizgi takibi, OCR ve sesli yönlendirme
+  modüllerinin entegrasyonu.
+- Gerçek zamanlı kamera akışının işlenmesi ve
+  sensör verilerinin analiz edilmesi.
+- Gömülü sistemlerde performans ve gecikme odaklı
+  yazılım optimizasyonu süreçlerinde aktif rol.
 
 ---
 
 <div align="center">
-  <i>“Mühendislik, doğru problemi tanımlamak ve onu veriye dayalı şekilde çözmektir.”</i>
+  <i>“Paylaştığın senindir, biriktirdiğin değil.”</i>
 </div>
 
 <div align="center">
