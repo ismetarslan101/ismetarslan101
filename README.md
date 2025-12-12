@@ -1,133 +1,110 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=İsmet%20Arslan&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=İsmet%20Arslan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Bilgisayar+Mühendisliği;Makine+Öğrenmesi+%7C+Görüntü+İşleme;Yapay+Zekâ+Destekli+Mühendislik" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=Bilgisayar+Mühendisliği;Makine+Öğrenmesi+%7C+Görüntü+İşleme;Yapay+Zekâ+Destekli+Mühendislik" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismet-arslan-58a67a269/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismetarslan0617@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismetarslan)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismetarslan101)
 
 </div>
 
----
+<div align="center">
 
+# 🚀 Hakkımda
 
-## 🚀 Hakkımda
-
-<p align="center">
-  <i>
-    Makine öğrenmesi, görüntü işleme ve yapay zekâ destekli mühendislik
-    sistemleri üzerine çalışan Bilgisayar Mühendisliği öğrencisi
-  </i>
-</p>
+</div>
 
 <p align="center">
-Ben, <b>makine öğrenmesi</b>, <b>görüntü işleme</b> ve
-<b>yapay zekâ destekli mühendislik çözümleri</b> üzerine çalışmalar yürüten
-bir <b>Bilgisayar Mühendisliği öğrencisiyim</b>.
+  <i>Makine öğrenmesi, görüntü işleme ve yapay zekâ destekli mühendislik çözümleri üzerine çalışıyorum.</i>
 </p>
 
-<p align="center">
-Odak noktam; veriye dayalı modeller geliştirerek mühendislik problemlerini çözmek,
-simülasyon ve algoritma temelli yaklaşımları <b>uygulamaya dönüştürmektir</b>.
-</p>
+Ben, **veriye dayalı modeller** ve **görüntü işleme** yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanan bir **Bilgisayar Mühendisliği öğrencisiyim**.  
+Projelerimde; **algoritma tasarımı**, **sensör/telemetri verisi işleme** ve **masaüstü uygulama geliştirme** gibi alanlarda uçtan uca sistem yaklaşımını benimsiyorum.
 
-Çalışmalarımda özellikle:
-- Gerçek dünya problemlerini **algoritmik olarak modelleme**
-- Makine öğrenmesi ile **tahmin ve sınıflandırma**
-- Görüntü işleme teknikleri ile **analiz ve karar destek**
-- Masaüstü uygulamalarla **kullanıcı odaklı sistem geliştirme**
-
-konularına yoğunlaşmaktayım.
-
----
+<div align="center">
 
 ## 🎯 Odak Alanlarım
-- 🧠 Makine Öğrenmesi  
-- 🖼️ Görüntü İşleme ve Bilgisayarlı Görü  
-- 🤖 Yapay Zekâ Destekli Mühendislik Uygulamaları  
-- 🚀 Aviyonik Sistem Tasarımı (yazılım ve sistem seviyesi)  
-- 📊 Algoritma Tasarımı ve Veri İşleme  
-- 🧩 Sistem Mühendisliği ve Uygulama Geliştirme  
+
+</div>
+
+- 🧠 **Makine Öğrenmesi**
+- 🖼️ **Görüntü İşleme / Bilgisayarlı Görü**
+- 🤖 **Yapay Zekâ Destekli Mühendislik Uygulamaları**
+- 🚀 **Aviyonik Sistem Tasarımı (sistem & yazılım seviyesi)**
+- 🧩 **Algoritma Tasarımı ve Veri İşleme**
 
 ---
 
-## 🛠️ Teknik Yetkinlikler
+<div align="center">
+
+## 🛠️ Teknoloji Yığını
+
+</div>
+
+<div align="center">
 
 ### 💻 Programlama Dilleri
-- **Python**, **C**, **C#**, **Java**, **JavaScript**, **MATLAB**
 
-### 📚 Kütüphaneler ve Frameworkler
-- **OpenCV**, **TensorFlow**
-- **Tkinter**, **WinForms**
+</div>
 
-### 🧰 Araçlar ve Platformlar
-- **Git**, **GitHub**
-- **Trello**, **Jenkins**
-- **OpenRocket**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,matlab" />
+</div>
 
-> Gömülü sistemler ve donanım bileşenleriyle ilgili çalışmalarım,
-> ağırlıklı olarak aviyonik projelerde ihtiyaç duyulan
-> **sensör verisi işleme**, **haberleşme** ve **sistem entegrasyonu**
-> kapsamında gerçekleştirilmiştir.
->  
-> STM32, Arduino, LoRa RF ve çeşitli sensörlerle uygulama bazlı deneyimim
-> bulunmakla birlikte, bu alanı ileri seviye uzmanlık iddiası olmadan,
-> yazılım ve sistem perspektifinden ele almaktayım.
+<div align="center">
 
+### 📚 Kütüphaneler & Frameworkler
 
----
+</div>
 
-## 🛰️ Diğer Önemli Projeler (Pinned Olmayan)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</div>
 
-### 🚀 Yüksek ve Orta İrtifa Roket Projeleri  
-**Space Camel Roket Takımı**  
-*Aviyonik Birim Kaptanı (2023–2024) · Takım Kaptanı (2024–2025)*
+<p align="center">
+  <b>Tkinter</b> • <b>WinForms</b>
+</p>
 
-- TEKNOFEST 2024 Orta İrtifa Roket Yarışması’nda  
-  **824 takım arasından 29. olarak finalist** olan aviyonik ekipte aktif rol aldım.
-- TEKNOFEST 2025 Yüksek İrtifa Roket Yarışması’nda  
-  takım kaptanı olarak teknik ve idari koordinasyonu üstlendim.
-- Aviyonik sistem tasarımı ve haberleşme mimarisinin oluşturulması,
-  alt sistemler arası veri akışı ve kontrol stratejilerinin belirlenmesi.
-- LoRa tabanlı telemetri sistemleri için link bütçesi ve kazanç analizleri,
-  saha testleri ve veri kararlılığı değerlendirmeleri.
-- STM32 tabanlı aviyonik yapılarda uçuş algoritmaları ve sensör veri işleme
-  süreçlerinde yazılım odaklı çalışmalar.
-- C# (WinForms) ile geliştirilen yer istasyonu yazılımında,
-  telemetri paketlerinin ayrıştırılması ve görselleştirilmesi.
-- OpenRocket simülasyonları ve uçuş sonrası analizlerle
-  sistem performansının değerlendirilmesi.
-- Raporlama, tedarik, sponsorluk, bütçe ve proje planlama süreçlerinde aktif rol.
-- Takım yönetimi, iletişim ve problem çözme becerilerinin geliştirilmesi.
+<div align="center">
+
+### ⚙️ Araçlar & Platformlar
+
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</div>
+
+<p align="center">
+  <b>Trello</b> • <b>Jenkins</b> • <b>OpenRocket</b>
+</p>
+
+> Not: STM32, LoRa RF ve çeşitli sensörlerle **uygulama bazlı** deneyimim bulunuyor.
+> Bu alanı “ileri seviye uzmanlık” iddiası yerine, **entegrasyon ve veri işleme perspektifinden** ele alıyorum.
 
 ---
 
-### 🕶️ Asistan Gözlük – Yapay Zekâ Destekli Akıllı Gözlük  
-**Heysem Yapay Zekâ Takımı – TEKNOFEST 2023 Engelsiz Yaşam Teknolojileri**  
-*(Yarışma Derecesi: 4.’lük)*
+<div align="center">
 
-- Raspberry Pi tabanlı akıllı gözlük sisteminde
-  görüntü işleme ve derin öğrenme algoritmalarının tasarımına katkı.
-- Python, OpenCV ve TensorFlow kullanılarak;
-  nesne algılama, yüz tanıma, sarı çizgi takibi, OCR ve sesli yönlendirme
-  modüllerinin entegrasyonu.
-- Gerçek zamanlı kamera akışının işlenmesi ve
-  sensör verilerinin analiz edilmesi.
-- Gömülü sistemlerde performans ve gecikme odaklı
-  yazılım optimizasyonu süreçlerinde aktif rol.
+## 📊 GitHub İstatistikleri
 
----
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismetarslan101&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismetarslan101&layout=compact&theme=radical" width="40%" />
+</p>
 
 <div align="center">
   <i>“Paylaştığın senindir, biriktirdiğin değil.”</i>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
