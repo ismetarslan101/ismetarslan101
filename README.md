@@ -21,11 +21,11 @@
 </div>
 
 <p align="center">
-  <i>Makine öğrenmesi, görüntü işleme ve yapay zekâ destekli mühendislik çözümleri üzerine çalışıyorum.</i>
+  <i>Makine öğrenmesi, görüntü işleme, temel elektronik ve yapay zekâ destekli mühendislik çözümleri üzerine çalışıyorum.</i>
 </p>
 
 <p align="center">
-Ben, veriye dayalı modeller ve görüntü işleme yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanan bir Bilgisayar Mühendisiyim.  
+Ben, veriye dayalı modeller ve görüntü işleme yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanan ve zaman zaman elektronik prototipler geliştirebilen bir Bilgisayar Mühendisiyim.  
 Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüstü uygulama geliştirme gibi alanlarda uçtan uca sistem yaklaşımını benimsiyorum.
 </p>
 
@@ -73,6 +73,10 @@ Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüst
 ### ⚙️ Araçlar & Platformlar
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 <p align="center">
