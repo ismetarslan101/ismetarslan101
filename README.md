@@ -65,6 +65,7 @@ Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüst
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Tkinter-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20MAUI-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
