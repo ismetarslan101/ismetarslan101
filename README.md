@@ -19,11 +19,11 @@
 ## 🚀 About Me
 
 <p align="center">
-  <i>Computer Engineering student focused on rocket avionics, embedded systems, and AI-supported engineering</i>
+  <i>Computer Engineering student focused on rocket avionics and AI-supported engineering</i>
 </p>
 
 I am a **Computer Engineering student** working at the intersection of  
-**rocket avionics, embedded systems, simulation, and artificial intelligence**.
+**rocket avionics,  simulation, and artificial intelligence**.
 
 My primary interest lies in developing **real-time flight systems** and validating them through  
 **simulation → data-driven modeling → hardware integration** pipelines.
@@ -40,7 +40,7 @@ I value **engineering discipline**, **iterative development**, and **sharing kno
 
 ## 🎯 Focus Areas
 - 🚀 Rocket Avionics & Flight Systems  
-- 📡 Embedded Systems (STM32, IMU, Telemetry)  
+- 📡 Embedded Systems (STM32, IMU, Telemetry, Arduino)  
 - 🧭 Sensor Fusion & State Estimation (UKF, Kalman Filters)  
 - 🧠 Machine Learning for Simulation & Prediction  
 - 🖼️ Computer Vision & Image Processing  
